@@ -1,3 +1,5 @@
+package py.edu.uc.lp3.clbasualdo.minecraft;
+
 public class Main {
     public static void main(String[] args) {
         Jugador jugador = new Jugador("Steve", 20, 5);
