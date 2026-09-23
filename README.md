@@ -1,7 +1,7 @@
 # Minecraft API — Taller de Git 2026
 
 API REST hecha con Spring Boot que expone el modelado de clases de Minecraft
-visto en las clases del 2 y 3 de septiembre (herencia, sobreescritura y
+visto en las clases(herencia, sobreescritura y
 ocultamiento de la información), como parte del Taller de Git.
 
 ## Tecnologías
